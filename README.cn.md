@@ -4,7 +4,7 @@
 
 Play chess in any terminal. Rust TUI, Stockfish, Lichess.
 
-![chess-tui](https://repo.x-cmd.io/chess-tui.svg)
+![chess-tui](https://repo.x-cmd.io/chess-tui.svg?lang=zh)
 
 ## 安装
 
@@ -23,23 +23,33 @@ x install chess-tui
 - **最新版本**: `2.7.1` (2026-05-21)
 - **最近提交**: 2026-08-17
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-05-21T02:34:57Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [chess-tui-2.7.1-aarch64-apple-darwin.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.7.1/chess-tui-2.7.1-aarch64-apple-darwin.tar.gz) | 2.5 MiB | `native/darwin/arm64` |
+| [chess-tui-2.7.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.7.1/chess-tui-2.7.1-aarch64-unknown-linux-gnu.tar.gz) | 2.6 MiB | `native/linux/arm64/glibc` |
+| [chess-tui-2.7.1-x86_64-apple-darwin.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.7.1/chess-tui-2.7.1-x86_64-apple-darwin.tar.gz) | 2.6 MiB | `native/darwin/x64` |
+| [chess-tui-2.7.1-x86_64-pc-windows-msvc.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.7.1/chess-tui-2.7.1-x86_64-pc-windows-msvc.tar.gz) | 2.4 MiB | `native/win/x64` |
+| [chess-tui-2.7.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.7.1/chess-tui-2.7.1-x86_64-unknown-linux-gnu.tar.gz) | 2.8 MiB | `native/linux/x64/glibc` |
+| [chess-tui_2.7.1-1_amd64.deb](https://github.com/thomas-mauran/chess-tui/releases/download/2.7.1/chess-tui_2.7.1-1_amd64.deb) | 2.1 MiB | `runtime/deb/amd64` |
 
 ## 流行度
 
-- **Star**: 1,172 · **Fork**: 77 · **开放 issue**: 134 · **贡献者**: 37
+- **Star**: 1,173 · **Fork**: 77 · **开放 issue**: 134 · **贡献者**: 37
 
 ## 累计统计
 
-- **发布数**: 26 · **已合并 PR**: 145 · **开放 PR**: 16 · **已关闭 issue**: 118 · **开放 issue**: 16 · **提交数**: 281
+- **发布数**: 26 · **已合并 PR**: 145 · **开放 PR**: 19 · **已关闭 issue**: 118 · **开放 issue**: 16 · **提交数**: 281
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 5 | 0 | 1 | 1 |
-| 90d | 2026-06-12 | 0 | 18 | 10 | 0 | 3 | 18 |
-| 360d | 2025-09-15 | 14 | 91 | 16 | 43 | 12 | 150 |
+| 30d | 2026-08-11 | 0 | 1 | 8 | 0 | 1 | 1 |
+| 90d | 2026-06-12 | 0 | 18 | 13 | 0 | 3 | 18 |
+| 360d | 2025-09-15 | 14 | 91 | 19 | 43 | 12 | 150 |
 
 ## 代码规模
 
@@ -62,4 +72,4 @@ chess-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:01:34Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:46:03Z._
