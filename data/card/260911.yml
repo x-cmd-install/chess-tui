@@ -7,7 +7,7 @@ about:
   latestVersion: "2.7.1"
   latestRelease: "2.7.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:47:58Z
+  collectedAt: 2026-09-11T20:14:41Z
 timeline:
   created: 2023-11-14
   lastCommit: 2026-08-17
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-05-21
   lastPrerelease: 
 popularity:
-  star: 1173
+  star: 1174
   watcher: 7
   fork: 77
   release: 26
@@ -90,7 +90,7 @@ total:
   commit: 281
 ---
 path: /home/runner/.x-repo/github.com/thomas-mauran/chess-tui
-collectedAt: 2026-09-11T04:48:02Z
+collectedAt: 2026-09-11T20:14:46Z
 loc:
   Rust:
     code: 15084
