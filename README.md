@@ -38,7 +38,7 @@ Total: **16,972** lines of code across **128** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,174 · **Forks**: 78 · **Open issues**: 134 · **Contributors**: 37
+- **Stars**: 1,175 · **Forks**: 78 · **Open issues**: 134 · **Contributors**: 37
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **16,972** lines of code across **128** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 1 | 6 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 0 | 10 | 12 | 0 | 3 | 12 |
-| 90d | 2026-06-15 | 0 | 18 | 13 | 0 | 3 | 18 |
-| last180d | 2026-03-17 | 5 | 51 | 17 | 8 | 7 | 66 |
-| 360d | 2025-09-18 | 14 | 91 | 19 | 43 | 12 | 150 |
-| last720d | 2024-09-23 | 20 | 118 | 19 | 72 | 15 | 189 |
+| 30d | 2026-08-15 | 0 | 0 | 6 | 0 | 1 | 0 |
+| last60d | 2026-07-16 | 0 | 6 | 10 | 0 | 3 | 12 |
+| 90d | 2026-06-16 | 0 | 18 | 13 | 0 | 3 | 18 |
+| last180d | 2026-03-18 | 5 | 51 | 17 | 8 | 7 | 66 |
+| 360d | 2025-09-19 | 14 | 91 | 19 | 43 | 12 | 150 |
+| last720d | 2024-09-24 | 20 | 118 | 19 | 72 | 15 | 189 |
 
 ## Release assets
 
@@ -66,17 +66,6 @@ Total: **16,972** lines of code across **128** files in the top 5 languages.
 | [chess-tui-2.7.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.7.1/chess-tui-2.7.1-x86_64-unknown-linux-gnu.tar.gz) | 2.8 MiB | `native/linux/x64/glibc` |
 | [chess-tui_2.7.1-1_amd64.deb](https://github.com/thomas-mauran/chess-tui/releases/download/2.7.1/chess-tui_2.7.1-1_amd64.deb) | 2.1 MiB | `runtime/deb/amd64` |
 
-## Distribution status
-
-Reported by **19** distros on [repology.org](https://repology.org/project/chess-tui). **13** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.7.1` | ✅ latest |
-| Nix unstable | `2.7.1` | ✅ latest |
-| Void | `2.7.1` | ✅ latest |
-| Alpine edge | `2.7.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `chess-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +75,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:55:29Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:59:18Z._
