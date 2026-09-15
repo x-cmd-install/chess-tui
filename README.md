@@ -33,27 +33,27 @@ Total: **16,972** lines of code across **128** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.7.1` (2026-05-21)
-- **Last commit**: 2026-08-17
+- **Last commit**: 2026-09-14
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,175 · **Forks**: 78 · **Open issues**: 134 · **Contributors**: 37
+- **Stars**: 1,175 · **Forks**: 78 · **Open issues**: 135 · **Contributors**: 37
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 145 · **Open PRs**: 19 · **Closed issues**: 118 · **Open issues**: 16 · **Commits**: 281
+- **Releases**: 26 · **Merged PRs**: 151 · **Open PRs**: 13 · **Closed issues**: 118 · **Open issues**: 17 · **Commits**: 287
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 6 | 0 | 1 | 0 |
-| last60d | 2026-07-16 | 0 | 6 | 10 | 0 | 3 | 12 |
-| 90d | 2026-06-16 | 0 | 18 | 13 | 0 | 3 | 18 |
-| last180d | 2026-03-18 | 5 | 51 | 17 | 8 | 7 | 66 |
-| 360d | 2025-09-19 | 14 | 91 | 19 | 43 | 12 | 150 |
-| last720d | 2024-09-24 | 20 | 118 | 19 | 72 | 15 | 189 |
+| 30d | 2026-08-16 | 0 | 4 | 2 | 0 | 2 | 6 |
+| last60d | 2026-07-17 | 0 | 12 | 4 | 0 | 4 | 18 |
+| 90d | 2026-06-17 | 0 | 24 | 7 | 0 | 4 | 24 |
+| last180d | 2026-03-19 | 5 | 57 | 11 | 8 | 8 | 72 |
+| 360d | 2025-09-20 | 14 | 97 | 13 | 43 | 13 | 156 |
+| last720d | 2024-09-25 | 20 | 124 | 13 | 72 | 16 | 195 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:59:18Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:06:03Z._
