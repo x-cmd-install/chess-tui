@@ -4,7 +4,7 @@
 
 Play chess in any terminal. Rust TUI, Stockfish, Lichess.
 
-![chess-tui](https://repo.x-cmd.io/chess-tui.svg)
+[![x-cmd/install — chess-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/chess-tui.svg)](https://x-cmd.com/install/chess-tui)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **16,972** lines of code across **128** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,179 · **Forks**: 78 · **Open issues**: 135 · **Contributors**: 37
+- **Stars**: 1,180 · **Forks**: 78 · **Open issues**: 135 · **Contributors**: 37
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **16,972** lines of code across **128** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 4 | 5 | 0 | 1 | 6 |
-| last60d | 2026-07-20 | 0 | 12 | 7 | 0 | 4 | 18 |
-| 90d | 2026-06-20 | 0 | 24 | 10 | 0 | 4 | 24 |
-| last180d | 2026-03-22 | 5 | 57 | 14 | 8 | 8 | 72 |
-| 360d | 2025-09-23 | 14 | 97 | 16 | 43 | 13 | 156 |
-| last720d | 2024-09-28 | 20 | 124 | 16 | 72 | 16 | 195 |
+| 30d | 2026-08-21 | 0 | 4 | 5 | 0 | 1 | 6 |
+| last60d | 2026-07-22 | 0 | 12 | 7 | 0 | 4 | 15 |
+| 90d | 2026-06-22 | 0 | 24 | 10 | 0 | 4 | 24 |
+| last180d | 2026-03-24 | 5 | 57 | 14 | 7 | 8 | 72 |
+| 360d | 2025-09-25 | 14 | 97 | 16 | 43 | 13 | 156 |
+| last720d | 2024-09-30 | 20 | 124 | 16 | 72 | 16 | 195 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:59:11Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:10:14Z._
