@@ -4,7 +4,7 @@
 
 Play chess in any terminal. Rust TUI, Stockfish, Lichess.
 
-[![x-cmd/install — chess-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/chess-tui.svg)](https://x-cmd.com/install/chess-tui)
+[![x-cmd/install — chess-tui Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/chess-tui.svg)](https://x-cmd.com/install/chess-tui)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **16,972** lines of code across **128** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,181 · **Forks**: 78 · **Open issues**: 136 · **Contributors**: 37
+- **Stars**: 1,183 · **Forks**: 78 · **Open issues**: 136 · **Contributors**: 37
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **16,972** lines of code across **128** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 4 | 5 | 0 | 2 | 6 |
-| last60d | 2026-07-24 | 0 | 9 | 6 | 0 | 5 | 15 |
-| 90d | 2026-06-24 | 0 | 24 | 10 | 0 | 5 | 24 |
-| last180d | 2026-03-26 | 5 | 56 | 14 | 7 | 9 | 72 |
-| 360d | 2025-09-27 | 14 | 97 | 16 | 43 | 14 | 156 |
-| last720d | 2024-10-02 | 20 | 124 | 16 | 72 | 17 | 194 |
+| 30d | 2026-08-24 | 0 | 4 | 5 | 0 | 2 | 6 |
+| last60d | 2026-07-25 | 0 | 9 | 6 | 0 | 5 | 15 |
+| 90d | 2026-06-25 | 0 | 21 | 10 | 0 | 5 | 24 |
+| last180d | 2026-03-27 | 5 | 56 | 14 | 7 | 9 | 72 |
+| 360d | 2025-09-28 | 14 | 97 | 16 | 43 | 14 | 156 |
+| last720d | 2024-10-03 | 20 | 124 | 16 | 72 | 17 | 194 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:11:02Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:55:01Z._

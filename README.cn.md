@@ -4,7 +4,7 @@
 
 Play chess in any terminal. Rust TUI, Stockfish, Lichess.
 
-[![x-cmd/install — chess-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/chess-tui.svg?lang=zh)](https://x-cmd.com/install/chess-tui)
+[![x-cmd/install — chess-tui Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/chess-tui.svg?lang=zh)](https://x-cmd.com/install/chess-tui)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install chess-tui
 
 ## 流行度
 
-- **Star**: 1,181 · **Fork**: 78 · **开放 issue**: 136 · **贡献者**: 37
+- **Star**: 1,183 · **Fork**: 78 · **开放 issue**: 136 · **贡献者**: 37
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install chess-tui
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 4 | 5 | 0 | 2 | 6 |
-| last60d | 2026-07-24 | 0 | 9 | 6 | 0 | 5 | 15 |
-| 90d | 2026-06-24 | 0 | 24 | 10 | 0 | 5 | 24 |
-| last180d | 2026-03-26 | 5 | 56 | 14 | 7 | 9 | 72 |
-| 360d | 2025-09-27 | 14 | 97 | 16 | 43 | 14 | 156 |
-| last720d | 2024-10-02 | 20 | 124 | 16 | 72 | 17 | 194 |
+| 30d | 2026-08-24 | 0 | 4 | 5 | 0 | 2 | 6 |
+| last60d | 2026-07-25 | 0 | 9 | 6 | 0 | 5 | 15 |
+| 90d | 2026-06-25 | 0 | 21 | 10 | 0 | 5 | 24 |
+| last180d | 2026-03-27 | 5 | 56 | 14 | 7 | 9 | 72 |
+| 360d | 2025-09-28 | 14 | 97 | 16 | 43 | 14 | 156 |
+| last720d | 2024-10-03 | 20 | 124 | 16 | 72 | 17 | 194 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ chess-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:11:03Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:55:01Z._
