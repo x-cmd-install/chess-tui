@@ -14,7 +14,7 @@ x install chess-tui
 
 ## Code insight
 
-Total: **18,395** lines of code across **135** files in the top 5 languages.
+Total: **18,400** lines of code across **135** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **18,395** lines of code across **135** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.7.1` (2026-05-21)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-10
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,198 · **Forks**: 84 · **Open issues**: 140 · **Contributors**: 39
+- **Stars**: 1,198 · **Forks**: 84 · **Open issues**: 140 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 162 · **Open PRs**: 15 · **Closed issues**: 120 · **Open issues**: 20 · **Commits**: 299
+- **Releases**: 26 · **Merged PRs**: 163 · **Open PRs**: 14 · **Closed issues**: 120 · **Open issues**: 20 · **Commits**: 300
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 8 | 6 | 2 | 4 | 18 |
-| last60d | 2026-08-11 | 0 | 16 | 7 | 2 | 5 | 19 |
-| 90d | 2026-07-12 | 0 | 26 | 10 | 2 | 7 | 34 |
-| last180d | 2026-04-13 | 5 | 66 | 13 | 8 | 11 | 83 |
-| 360d | 2025-10-15 | 14 | 108 | 15 | 45 | 16 | 168 |
-| last720d | 2024-10-20 | 20 | 135 | 15 | 73 | 19 | 206 |
+| 30d | 2026-09-11 | 0 | 9 | 5 | 2 | 4 | 13 |
+| last60d | 2026-08-12 | 0 | 17 | 6 | 2 | 5 | 19 |
+| 90d | 2026-07-13 | 0 | 27 | 9 | 2 | 7 | 31 |
+| last180d | 2026-04-14 | 5 | 67 | 12 | 8 | 11 | 82 |
+| 360d | 2025-10-16 | 14 | 109 | 14 | 45 | 16 | 169 |
+| last720d | 2024-10-21 | 20 | 136 | 14 | 73 | 19 | 207 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:56:25Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:51:41Z._
