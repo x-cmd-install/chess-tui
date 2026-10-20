@@ -38,22 +38,22 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,206 · **Forks**: 84 · **Open issues**: 140 · **Contributors**: 41
+- **Stars**: 1,207 · **Forks**: 84 · **Open issues**: 141 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 164 · **Open PRs**: 15 · **Closed issues**: 120 · **Open issues**: 20 · **Commits**: 301
+- **Releases**: 26 · **Merged PRs**: 164 · **Open PRs**: 15 · **Closed issues**: 120 · **Open issues**: 21 · **Commits**: 301
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 7 | 5 | 2 | 3 | 14 |
-| last60d | 2026-08-20 | 0 | 15 | 6 | 2 | 4 | 20 |
-| 90d | 2026-07-21 | 0 | 24 | 7 | 2 | 7 | 29 |
-| last180d | 2026-04-22 | 5 | 68 | 13 | 8 | 11 | 83 |
-| 360d | 2025-10-24 | 14 | 110 | 15 | 44 | 16 | 170 |
-| last720d | 2024-10-29 | 20 | 136 | 15 | 73 | 19 | 208 |
+| 30d | 2026-09-20 | 0 | 7 | 5 | 2 | 4 | 14 |
+| last60d | 2026-08-21 | 0 | 15 | 6 | 2 | 5 | 20 |
+| 90d | 2026-07-22 | 0 | 24 | 7 | 2 | 8 | 29 |
+| last180d | 2026-04-23 | 5 | 68 | 13 | 8 | 12 | 83 |
+| 360d | 2025-10-25 | 14 | 110 | 15 | 44 | 17 | 170 |
+| last720d | 2024-10-30 | 20 | 136 | 15 | 73 | 20 | 208 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:45:01Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:57:12Z._
