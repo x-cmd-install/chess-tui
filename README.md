@@ -18,7 +18,7 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 16,742 | 1,178 | 2,270 | 121 |
+| Rust | 16,742 | 1,179 | 2,272 | 121 |
 | Css | 466 | 21 | 89 | 4 |
 | JavaScript | 370 | 60 | 55 | 4 |
 | Json | 282 | 0 | 0 | 3 |
@@ -33,27 +33,27 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.7.1` (2026-05-21)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-20
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,207 · **Forks**: 84 · **Open issues**: 141 · **Contributors**: 41
+- **Stars**: 1,207 · **Forks**: 84 · **Open issues**: 143 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 164 · **Open PRs**: 15 · **Closed issues**: 120 · **Open issues**: 21 · **Commits**: 301
+- **Releases**: 26 · **Merged PRs**: 169 · **Open PRs**: 11 · **Closed issues**: 121 · **Open issues**: 22 · **Commits**: 308
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 7 | 5 | 2 | 4 | 14 |
-| last60d | 2026-08-21 | 0 | 15 | 6 | 2 | 5 | 20 |
-| 90d | 2026-07-22 | 0 | 24 | 7 | 2 | 8 | 29 |
-| last180d | 2026-04-23 | 5 | 68 | 13 | 8 | 12 | 83 |
-| 360d | 2025-10-25 | 14 | 110 | 15 | 44 | 17 | 170 |
-| last720d | 2024-10-30 | 20 | 136 | 15 | 73 | 20 | 208 |
+| 30d | 2026-09-21 | 0 | 12 | 1 | 2 | 6 | 21 |
+| last60d | 2026-08-22 | 0 | 20 | 2 | 2 | 7 | 27 |
+| 90d | 2026-07-23 | 0 | 25 | 3 | 3 | 9 | 36 |
+| last180d | 2026-04-24 | 5 | 73 | 9 | 9 | 13 | 90 |
+| 360d | 2025-10-26 | 14 | 115 | 11 | 45 | 18 | 177 |
+| last720d | 2024-10-31 | 20 | 141 | 11 | 74 | 21 | 214 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:57:12Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:43:11Z._
