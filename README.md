@@ -14,11 +14,11 @@ x install chess-tui
 
 ## Code insight
 
-Total: **18,637** lines of code across **137** files in the top 5 languages.
+Total: **18,633** lines of code across **137** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 16,742 | 1,179 | 2,272 | 121 |
+| Rust | 16,738 | 1,178 | 2,271 | 121 |
 | Css | 466 | 21 | 89 | 4 |
 | JavaScript | 370 | 60 | 55 | 4 |
 | Json | 282 | 0 | 0 | 3 |
@@ -32,8 +32,8 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `2.7.1` (2026-05-21)
-- **Last commit**: 2026-10-20
+- **Latest**: `2.8.0` (2026-10-21)
+- **Last commit**: 2026-10-21
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,29 +42,29 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 169 · **Open PRs**: 11 · **Closed issues**: 121 · **Open issues**: 22 · **Commits**: 308
+- **Releases**: 27 · **Merged PRs**: 169 · **Open PRs**: 11 · **Closed issues**: 121 · **Open issues**: 22 · **Commits**: 310
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 12 | 1 | 2 | 6 | 21 |
-| last60d | 2026-08-22 | 0 | 20 | 2 | 2 | 7 | 27 |
-| 90d | 2026-07-23 | 0 | 25 | 3 | 3 | 9 | 36 |
-| last180d | 2026-04-24 | 5 | 73 | 9 | 9 | 13 | 90 |
-| 360d | 2025-10-26 | 14 | 115 | 11 | 45 | 18 | 177 |
-| last720d | 2024-10-31 | 20 | 141 | 11 | 74 | 21 | 214 |
+| 30d | 2026-09-22 | 1 | 12 | 1 | 2 | 5 | 23 |
+| last60d | 2026-08-23 | 1 | 20 | 2 | 2 | 7 | 29 |
+| 90d | 2026-07-24 | 1 | 25 | 3 | 3 | 9 | 38 |
+| last180d | 2026-04-25 | 6 | 73 | 9 | 9 | 13 | 92 |
+| 360d | 2025-10-27 | 15 | 115 | 11 | 45 | 18 | 179 |
+| last720d | 2024-11-01 | 21 | 141 | 11 | 74 | 21 | 216 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [chess-tui-2.7.1-aarch64-apple-darwin.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.7.1/chess-tui-2.7.1-aarch64-apple-darwin.tar.gz) | 2.5 MiB | `native/darwin/arm64` |
-| [chess-tui-2.7.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.7.1/chess-tui-2.7.1-aarch64-unknown-linux-gnu.tar.gz) | 2.6 MiB | `native/linux/arm64/glibc` |
-| [chess-tui-2.7.1-x86_64-apple-darwin.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.7.1/chess-tui-2.7.1-x86_64-apple-darwin.tar.gz) | 2.6 MiB | `native/darwin/x64` |
-| [chess-tui-2.7.1-x86_64-pc-windows-msvc.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.7.1/chess-tui-2.7.1-x86_64-pc-windows-msvc.tar.gz) | 2.4 MiB | `native/win/x64` |
-| [chess-tui-2.7.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.7.1/chess-tui-2.7.1-x86_64-unknown-linux-gnu.tar.gz) | 2.8 MiB | `native/linux/x64/glibc` |
-| [chess-tui_2.7.1-1_amd64.deb](https://github.com/thomas-mauran/chess-tui/releases/download/2.7.1/chess-tui_2.7.1-1_amd64.deb) | 2.1 MiB | `runtime/deb/amd64` |
+| [chess-tui-2.8.0-aarch64-apple-darwin.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.8.0/chess-tui-2.8.0-aarch64-apple-darwin.tar.gz) | 2.7 MiB | `native/darwin/arm64` |
+| [chess-tui-2.8.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.8.0/chess-tui-2.8.0-aarch64-unknown-linux-gnu.tar.gz) | 2.9 MiB | `native/linux/arm64/glibc` |
+| [chess-tui-2.8.0-x86_64-apple-darwin.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.8.0/chess-tui-2.8.0-x86_64-apple-darwin.tar.gz) | 2.9 MiB | `native/darwin/x64` |
+| [chess-tui-2.8.0-x86_64-pc-windows-msvc.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.8.0/chess-tui-2.8.0-x86_64-pc-windows-msvc.tar.gz) | 2.7 MiB | `native/win/x64` |
+| [chess-tui-2.8.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.8.0/chess-tui-2.8.0-x86_64-unknown-linux-gnu.tar.gz) | 3.0 MiB | `native/linux/x64/glibc` |
+| [chess-tui_2.8.0-1_amd64.deb](https://github.com/thomas-mauran/chess-tui/releases/download/2.8.0/chess-tui_2.8.0-1_amd64.deb) | 2.3 MiB | `runtime/deb/amd64` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:43:11Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:41:03Z._
