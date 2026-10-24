@@ -14,11 +14,11 @@ x install chess-tui
 
 ## Code insight
 
-Total: **18,633** lines of code across **137** files in the top 5 languages.
+Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 16,738 | 1,178 | 2,271 | 121 |
+| Rust | 16,742 | 1,179 | 2,272 | 121 |
 | Css | 466 | 21 | 89 | 4 |
 | JavaScript | 370 | 60 | 55 | 4 |
 | Json | 282 | 0 | 0 | 3 |
@@ -33,27 +33,27 @@ Total: **18,633** lines of code across **137** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.8.0` (2026-10-21)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-23
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,208 · **Forks**: 85 · **Open issues**: 144 · **Contributors**: 41
+- **Stars**: 1,208 · **Forks**: 86 · **Open issues**: 145 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 169 · **Open PRs**: 12 · **Closed issues**: 121 · **Open issues**: 23 · **Commits**: 310
+- **Releases**: 27 · **Merged PRs**: 170 · **Open PRs**: 12 · **Closed issues**: 122 · **Open issues**: 23 · **Commits**: 311
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 12 | 3 | 2 | 6 | 23 |
-| last60d | 2026-08-24 | 1 | 20 | 3 | 2 | 8 | 29 |
-| 90d | 2026-07-25 | 1 | 25 | 4 | 3 | 10 | 38 |
-| last180d | 2026-04-26 | 6 | 73 | 10 | 9 | 14 | 92 |
-| 360d | 2025-10-28 | 15 | 115 | 12 | 45 | 19 | 179 |
-| last720d | 2024-11-02 | 21 | 141 | 12 | 74 | 22 | 216 |
+| 30d | 2026-09-24 | 1 | 11 | 3 | 3 | 6 | 24 |
+| last60d | 2026-08-25 | 1 | 21 | 3 | 3 | 8 | 30 |
+| 90d | 2026-07-26 | 1 | 26 | 4 | 4 | 10 | 39 |
+| last180d | 2026-04-27 | 6 | 74 | 10 | 10 | 14 | 93 |
+| 360d | 2025-10-29 | 15 | 116 | 12 | 46 | 19 | 180 |
+| last720d | 2024-11-03 | 21 | 142 | 12 | 75 | 22 | 217 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:49:08Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:36:05Z._
