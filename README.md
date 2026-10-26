@@ -38,7 +38,7 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,208 · **Forks**: 86 · **Open issues**: 145 · **Contributors**: 42
+- **Stars**: 1,210 · **Forks**: 86 · **Open issues**: 145 · **Contributors**: 42
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 11 | 3 | 3 | 6 | 16 |
-| last60d | 2026-08-26 | 1 | 21 | 3 | 3 | 8 | 30 |
-| 90d | 2026-07-27 | 1 | 26 | 4 | 4 | 10 | 31 |
-| last180d | 2026-04-28 | 6 | 74 | 10 | 10 | 14 | 74 |
-| 360d | 2025-10-30 | 15 | 116 | 12 | 46 | 19 | 180 |
-| last720d | 2024-11-04 | 21 | 142 | 12 | 75 | 22 | 217 |
+| 30d | 2026-09-26 | 1 | 11 | 3 | 3 | 6 | 16 |
+| last60d | 2026-08-27 | 1 | 20 | 3 | 3 | 8 | 30 |
+| 90d | 2026-07-28 | 1 | 26 | 4 | 4 | 10 | 31 |
+| last180d | 2026-04-29 | 6 | 74 | 10 | 10 | 14 | 74 |
+| 360d | 2025-10-31 | 15 | 116 | 12 | 46 | 19 | 180 |
+| last720d | 2024-11-05 | 21 | 142 | 12 | 75 | 22 | 217 |
 
 ## Release assets
 
@@ -68,7 +68,7 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/chess-tui). **3** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/chess-tui). **4** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -86,4 +86,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:43:41Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:46:06Z._
