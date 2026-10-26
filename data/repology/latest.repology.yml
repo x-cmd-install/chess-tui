@@ -1,3 +1,14 @@
+- repo: nix_stable_25_11
+  srcname: chess-tui
+  visiblename: chess-tui
+  version: 1.6.2
+  origversion: null
+  status: outdated
+  summary: Chess TUI implementation in rust
+  maintainers:
+    - bytesudoer@gmail.com
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: chess-tui
@@ -128,17 +139,6 @@
     - bytesudoer@gmail.com
   licenses:
     - MIT
-- repo: nix_stable_25_11
-  srcname: chess-tui
-  visiblename: chess-tui
-  version: 1.6.2
-  origversion: null
-  status: outdated
-  summary: Chess TUI implementation in rust
-  maintainers:
-    - bytesudoer@gmail.com
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: chess-tui
   visiblename: chess-tui
@@ -200,9 +200,9 @@
   srcname: games/chess-tui
   binname: chess-tui
   visiblename: games/chess-tui
-  version: 2.7.1
+  version: 2.8.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Chess TUI implementation in rust
   maintainers:
     - pkgsrc-users@netbsd.org
