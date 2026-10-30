@@ -1,12 +1,78 @@
-- repo: nix_stable_25_11
+- repo: artix
+  subrepo: galaxy
+  srcname: chess-tui
+  binname: chess-tui
+  visiblename: chess-tui
+  version: 2.8.0
+  origversion: 2.8.0-1
+  status: newest
+  summary: Play chess in your terminal
+  licenses:
+    - MIT
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: chess-tui
+  binname: chess-tui
+  visiblename: chess-tui
+  version: 2.7.1
+  origversion: 2.7.1-1
+  status: outdated
+  summary: Play chess in your terminal
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
   srcname: chess-tui
   visiblename: chess-tui
-  version: 1.6.2
+  version: 1.2.1
+  origversion: null
+  status: outdated
+  summary: A chess TUI implementation in rust
+  maintainers:
+    - bytesudoer@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: chess-tui
+  visiblename: chess-tui
+  version: 1.2.1
   origversion: null
   status: outdated
   summary: Chess TUI implementation in rust
   maintainers:
     - bytesudoer@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: chess-tui
+  visiblename: chess-tui
+  version: 1.6.1
+  origversion: null
+  status: outdated
+  summary: Chess TUI implementation in rust
+  maintainers:
+    - bytesudoer@gmail.com
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: chess-tui
+  binname: chess-tui
+  visiblename: chess-tui
+  version: 2.8.0
+  origversion: 2.8.0-1
+  status: newest
+  summary: Play chess in your terminal
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: chess-tui
+  binname: chess-tui
+  visiblename: chess-tui
+  version: 2.7.1
+  origversion: 2.7.1-1
+  status: outdated
+  summary: Play chess in your terminal
   licenses:
     - MIT
 - repo: alpine_edge
@@ -62,76 +128,10 @@
   summary: Play chess in your terminal
   licenses:
     - MIT
-- repo: artix
-  subrepo: galaxy
-  srcname: chess-tui
-  binname: chess-tui
-  visiblename: chess-tui
-  version: 2.7.1
-  origversion: 2.7.1-1
-  status: outdated
-  summary: Play chess in your terminal
-  licenses:
-    - MIT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: chess-tui
-  binname: chess-tui
-  visiblename: chess-tui
-  version: 2.7.1
-  origversion: 2.7.1-1
-  status: outdated
-  summary: Play chess in your terminal
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: chess-tui
-  binname: chess-tui
-  visiblename: chess-tui
-  version: 2.7.1
-  origversion: 2.7.1-1
-  status: outdated
-  summary: Play chess in your terminal
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: chess-tui
-  binname: chess-tui
-  visiblename: chess-tui
-  version: 2.8.0
-  origversion: 2.8.0-1
-  status: newest
-  summary: Play chess in your terminal
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
+- repo: nix_stable_25_11
   srcname: chess-tui
   visiblename: chess-tui
-  version: 1.2.1
-  origversion: null
-  status: outdated
-  summary: A chess TUI implementation in rust
-  maintainers:
-    - bytesudoer@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: chess-tui
-  visiblename: chess-tui
-  version: 1.2.1
-  origversion: null
-  status: outdated
-  summary: Chess TUI implementation in rust
-  maintainers:
-    - bytesudoer@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: chess-tui
-  visiblename: chess-tui
-  version: 1.6.1
+  version: 1.6.2
   origversion: null
   status: outdated
   summary: Chess TUI implementation in rust
