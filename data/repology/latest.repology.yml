@@ -62,28 +62,6 @@
   summary: Play chess in your terminal
   licenses:
     - MIT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: chess-tui
-  binname: chess-tui
-  visiblename: chess-tui
-  version: 2.7.1
-  origversion: 2.7.1-1
-  status: outdated
-  summary: Play chess in your terminal
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: chess-tui
-  binname: chess-tui
-  visiblename: chess-tui
-  version: 2.7.1
-  origversion: 2.7.1-1
-  status: outdated
-  summary: Play chess in your terminal
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: chess-tui
