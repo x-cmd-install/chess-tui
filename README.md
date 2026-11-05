@@ -38,7 +38,7 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,215 · **Forks**: 88 · **Open issues**: 146 · **Contributors**: 42
+- **Stars**: 1,215 · **Forks**: 87 · **Open issues**: 146 · **Contributors**: 42
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 7 | 4 | 1 | 6 | 12 |
-| last60d | 2026-09-05 | 1 | 19 | 5 | 3 | 9 | 30 |
-| 90d | 2026-08-06 | 1 | 24 | 6 | 3 | 10 | 31 |
-| last180d | 2026-05-08 | 3 | 60 | 10 | 6 | 12 | 66 |
-| 360d | 2025-11-09 | 15 | 116 | 14 | 46 | 20 | 180 |
-| last720d | 2024-11-14 | 21 | 138 | 14 | 74 | 23 | 215 |
+| 30d | 2026-10-06 | 1 | 7 | 4 | 1 | 6 | 12 |
+| last60d | 2026-09-06 | 1 | 19 | 5 | 3 | 9 | 30 |
+| 90d | 2026-08-07 | 1 | 24 | 6 | 3 | 10 | 31 |
+| last180d | 2026-05-09 | 3 | 59 | 10 | 6 | 12 | 66 |
+| 360d | 2025-11-10 | 15 | 116 | 14 | 46 | 20 | 180 |
+| last720d | 2024-11-15 | 21 | 137 | 14 | 74 | 23 | 215 |
 
 ## Release assets
 
@@ -68,7 +68,7 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/chess-tui). **6** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/chess-tui). **8** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -86,4 +86,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:18:21Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:42:07Z._
