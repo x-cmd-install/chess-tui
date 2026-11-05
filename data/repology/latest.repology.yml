@@ -1,3 +1,36 @@
+- repo: nix_stable_25_05
+  srcname: chess-tui
+  visiblename: chess-tui
+  version: 1.6.1
+  origversion: null
+  status: outdated
+  summary: Chess TUI implementation in rust
+  maintainers:
+    - bytesudoer@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: chess-tui
+  visiblename: chess-tui
+  version: 1.6.2
+  origversion: null
+  status: outdated
+  summary: Chess TUI implementation in rust
+  maintainers:
+    - bytesudoer@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: chess-tui
+  visiblename: chess-tui
+  version: 2.7.0
+  origversion: null
+  status: outdated
+  summary: Chess TUI implementation in rust
+  maintainers:
+    - bytesudoer@gmail.com
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: chess-tui
@@ -51,6 +84,17 @@
   summary: Play chess in your terminal
   licenses:
     - MIT
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: chess-tui
+  binname: chess-tui
+  visiblename: chess-tui
+  version: 2.8.0
+  origversion: 2.8.0-2
+  status: newest
+  summary: Play chess in your terminal
+  licenses:
+    - MIT
 - repo: artix
   subrepo: galaxy
   srcname: chess-tui
@@ -58,6 +102,17 @@
   visiblename: chess-tui
   version: 2.8.0
   origversion: 2.8.0-1
+  status: newest
+  summary: Play chess in your terminal
+  licenses:
+    - MIT
+- repo: artix_testing
+  subrepo: galaxy-gremlins
+  srcname: chess-tui
+  binname: chess-tui
+  visiblename: chess-tui
+  version: 2.8.0
+  origversion: 2.8.0-2
   status: newest
   summary: Play chess in your terminal
   licenses:
@@ -88,39 +143,6 @@
   srcname: chess-tui
   visiblename: chess-tui
   version: 1.2.1
-  origversion: null
-  status: outdated
-  summary: Chess TUI implementation in rust
-  maintainers:
-    - bytesudoer@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: chess-tui
-  visiblename: chess-tui
-  version: 1.6.1
-  origversion: null
-  status: outdated
-  summary: Chess TUI implementation in rust
-  maintainers:
-    - bytesudoer@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: chess-tui
-  visiblename: chess-tui
-  version: 1.6.2
-  origversion: null
-  status: outdated
-  summary: Chess TUI implementation in rust
-  maintainers:
-    - bytesudoer@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: chess-tui
-  visiblename: chess-tui
-  version: 2.7.0
   origversion: null
   status: outdated
   summary: Chess TUI implementation in rust
