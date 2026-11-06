@@ -42,18 +42,18 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 170 · **Open PRs**: 14 · **Closed issues**: 122 · **Open issues**: 24 · **Commits**: 311
+- **Releases**: 27 · **Merged PRs**: 170 · **Open PRs**: 15 · **Closed issues**: 122 · **Open issues**: 24 · **Commits**: 311
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 7 | 4 | 1 | 6 | 12 |
-| last60d | 2026-09-06 | 1 | 19 | 5 | 3 | 9 | 30 |
-| 90d | 2026-08-07 | 1 | 24 | 6 | 3 | 10 | 31 |
-| last180d | 2026-05-09 | 3 | 59 | 10 | 6 | 12 | 66 |
-| 360d | 2025-11-10 | 15 | 116 | 14 | 46 | 20 | 180 |
-| last720d | 2024-11-15 | 21 | 137 | 14 | 74 | 23 | 215 |
+| 30d | 2026-10-07 | 1 | 6 | 5 | 1 | 5 | 12 |
+| last60d | 2026-09-07 | 1 | 19 | 6 | 3 | 9 | 30 |
+| 90d | 2026-08-08 | 1 | 24 | 7 | 3 | 10 | 31 |
+| last180d | 2026-05-10 | 3 | 57 | 11 | 5 | 12 | 66 |
+| 360d | 2025-11-11 | 15 | 116 | 15 | 46 | 20 | 180 |
+| last720d | 2024-11-16 | 20 | 137 | 15 | 73 | 22 | 214 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:42:07Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:47:02Z._
