@@ -38,7 +38,7 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,215 · **Forks**: 87 · **Open issues**: 146 · **Contributors**: 42
+- **Stars**: 1,216 · **Forks**: 86 · **Open issues**: 146 · **Contributors**: 42
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 6 | 5 | 1 | 5 | 12 |
-| last60d | 2026-09-07 | 1 | 19 | 6 | 3 | 9 | 30 |
-| 90d | 2026-08-08 | 1 | 24 | 7 | 3 | 10 | 31 |
-| last180d | 2026-05-10 | 3 | 57 | 11 | 5 | 12 | 66 |
-| 360d | 2025-11-11 | 15 | 116 | 15 | 46 | 20 | 180 |
-| last720d | 2024-11-16 | 20 | 137 | 15 | 73 | 22 | 214 |
+| 30d | 2026-10-08 | 1 | 6 | 5 | 1 | 5 | 12 |
+| last60d | 2026-09-08 | 1 | 19 | 6 | 3 | 9 | 30 |
+| 90d | 2026-08-09 | 1 | 24 | 7 | 3 | 10 | 31 |
+| last180d | 2026-05-11 | 3 | 56 | 11 | 5 | 12 | 66 |
+| 360d | 2025-11-12 | 15 | 116 | 15 | 46 | 20 | 180 |
+| last720d | 2024-11-17 | 20 | 137 | 15 | 69 | 22 | 214 |
 
 ## Release assets
 
@@ -68,13 +68,13 @@ Total: **18,637** lines of code across **137** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/chess-tui). **8** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **21** distros on [repology.org](https://repology.org/project/chess-tui). **10** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.8.0` | ✅ latest |
 | Nix unstable | `2.8.0` | ✅ latest |
-| Void | `2.7.1` | ⚠️ outdated |
+| Void | `2.8.0` | ✅ latest |
 | Alpine edge | `2.7.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -86,4 +86,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:47:02Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:00:14Z._
