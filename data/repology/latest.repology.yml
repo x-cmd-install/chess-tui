@@ -1,3 +1,25 @@
+- repo: nix_stable_25_05
+  srcname: chess-tui
+  visiblename: chess-tui
+  version: 1.6.1
+  origversion: null
+  status: outdated
+  summary: Chess TUI implementation in rust
+  maintainers:
+    - bytesudoer@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: chess-tui
+  visiblename: chess-tui
+  version: 1.6.2
+  origversion: null
+  status: outdated
+  summary: Chess TUI implementation in rust
+  maintainers:
+    - bytesudoer@gmail.com
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: chess-tui
@@ -117,28 +139,6 @@
     - bytesudoer@gmail.com
   licenses:
     - MIT
-- repo: nix_stable_25_05
-  srcname: chess-tui
-  visiblename: chess-tui
-  version: 1.6.1
-  origversion: null
-  status: outdated
-  summary: Chess TUI implementation in rust
-  maintainers:
-    - bytesudoer@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: chess-tui
-  visiblename: chess-tui
-  version: 1.6.2
-  origversion: null
-  status: outdated
-  summary: Chess TUI implementation in rust
-  maintainers:
-    - bytesudoer@gmail.com
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: chess-tui
   visiblename: chess-tui
@@ -159,6 +159,7 @@
   summary: Chess TUI implementation in rust
   maintainers:
     - bytesudoer@gmail.com
+    - kybe@kybe.xyz
   licenses:
     - MIT
 - repo: parabola
