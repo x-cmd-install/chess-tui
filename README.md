@@ -33,27 +33,27 @@ Total: **19,215** lines of code across **138** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.8.1` (2026-11-07)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-12
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,219 · **Forks**: 87 · **Open issues**: 147 · **Contributors**: 44
+- **Stars**: 1,220 · **Forks**: 87 · **Open issues**: 147 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 182 · **Open PRs**: 11 · **Closed issues**: 124 · **Open issues**: 23 · **Commits**: 324
+- **Releases**: 28 · **Merged PRs**: 187 · **Open PRs**: 11 · **Closed issues**: 124 · **Open issues**: 23 · **Commits**: 329
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 18 | 1 | 2 | 5 | 24 |
-| last60d | 2026-09-13 | 2 | 28 | 2 | 5 | 8 | 37 |
-| 90d | 2026-08-14 | 2 | 34 | 3 | 5 | 9 | 44 |
-| last180d | 2026-05-16 | 3 | 67 | 6 | 7 | 11 | 75 |
-| 360d | 2025-11-17 | 16 | 128 | 10 | 48 | 19 | 193 |
-| last720d | 2024-11-22 | 20 | 144 | 11 | 62 | 20 | 218 |
+| 30d | 2026-10-14 | 2 | 23 | 1 | 2 | 5 | 29 |
+| last60d | 2026-09-14 | 2 | 33 | 2 | 5 | 7 | 42 |
+| 90d | 2026-08-15 | 2 | 38 | 3 | 5 | 9 | 49 |
+| last180d | 2026-05-17 | 3 | 72 | 6 | 7 | 11 | 80 |
+| 360d | 2025-11-18 | 16 | 133 | 10 | 48 | 19 | 198 |
+| last720d | 2024-11-23 | 20 | 147 | 11 | 61 | 20 | 223 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:28:35Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:46:40Z._
