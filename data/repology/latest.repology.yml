@@ -24,19 +24,6 @@
     - matthias@ahouansou.cz
   licenses:
     - MIT
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: chess-tui
-  binname: chess-tui
-  visiblename: chess-tui
-  version: 2.8.0
-  origversion: 2.8.0_1
-  status: newest
-  summary: Play chess from your terminal
-  maintainers:
-    - cat@thenight.club
-  licenses:
-    - MIT
 - repo: altsisyphus
   srcname: chess-tui
   binnames:
@@ -92,7 +79,7 @@
   binname: chess-tui
   visiblename: chess-tui
   version: 2.8.0
-  origversion: 2.8.0-1
+  origversion: 2.8.0-2
   status: newest
   summary: Play chess in your terminal
   licenses:
@@ -222,3 +209,16 @@
     - pkgsrc-users@netbsd.org
   categories:
     - games
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: chess-tui
+  binname: chess-tui
+  visiblename: chess-tui
+  version: 2.8.0
+  origversion: 2.8.0_1
+  status: newest
+  summary: Play chess from your terminal
+  maintainers:
+    - cat@thenight.club
+  licenses:
+    - MIT
