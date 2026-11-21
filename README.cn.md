@@ -14,11 +14,11 @@ x install chess-tui
 
 ## 代码洞察
 
-合计: **19,215** 行代码（覆盖前 5 种语言、共 **138** 个文件）。
+合计: **19,760** 行代码（覆盖前 5 种语言、共 **138** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 17,315 | 1,176 | 2,328 | 122 |
+| Rust | 17,860 | 1,169 | 2,419 | 122 |
 | Css | 466 | 21 | 89 | 4 |
 | JavaScript | 370 | 60 | 55 | 4 |
 | Json | 282 | 0 | 0 | 3 |
@@ -28,52 +28,52 @@ x install chess-tui
 
 - **上游仓库**: <https://github.com/thomas-mauran/chess-tui>
 - **官网**: <https://thomas-mauran.github.io/chess-tui/>
-- **许可证**: MIT
+- **许可证**: GPL-3.0
 
 ## 发布
 
-- **最新版本**: `2.8.1` (2026-11-07)
-- **最近提交**: 2026-11-19
+- **最新版本**: `2.9.0` (2026-11-20)
+- **最近提交**: 2026-11-20
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 1,225 · **Fork**: 88 · **开放 issue**: 148 · **贡献者**: 44
+- **Star**: 1,226 · **Fork**: 87 · **开放 issue**: 148 · **贡献者**: 45
 
 ## 累计统计
 
-- **发布数**: 28 · **已合并 PR**: 190 · **开放 PR**: 17 · **已关闭 issue**: 124 · **开放 issue**: 24 · **提交数**: 332
+- **发布数**: 29 · **已合并 PR**: 197 · **开放 PR**: 11 · **已关闭 issue**: 128 · **开放 issue**: 20 · **提交数**: 340
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 21 | 7 | 1 | 4 | 22 |
-| last60d | 2026-09-21 | 2 | 33 | 8 | 5 | 8 | 45 |
-| 90d | 2026-08-22 | 2 | 41 | 8 | 5 | 9 | 51 |
-| last180d | 2026-05-24 | 2 | 72 | 12 | 6 | 12 | 80 |
-| 360d | 2025-11-25 | 16 | 133 | 16 | 47 | 20 | 198 |
-| last720d | 2024-11-30 | 19 | 150 | 17 | 61 | 21 | 220 |
+| 30d | 2026-10-22 | 2 | 27 | 1 | 3 | 1 | 30 |
+| last60d | 2026-09-22 | 3 | 40 | 2 | 7 | 5 | 53 |
+| 90d | 2026-08-23 | 3 | 48 | 2 | 7 | 7 | 59 |
+| last180d | 2026-05-25 | 3 | 79 | 6 | 8 | 10 | 88 |
+| 360d | 2025-11-26 | 17 | 140 | 10 | 51 | 16 | 206 |
+| last720d | 2024-12-01 | 20 | 157 | 11 | 65 | 17 | 228 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [chess-tui-2.8.1-aarch64-apple-darwin.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.8.1/chess-tui-2.8.1-aarch64-apple-darwin.tar.gz) | 2.4 MiB | `native/darwin/arm64` |
-| [chess-tui-2.8.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.8.1/chess-tui-2.8.1-aarch64-unknown-linux-gnu.tar.gz) | 2.6 MiB | `native/linux/arm64/glibc` |
-| [chess-tui-2.8.1-x86_64-apple-darwin.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.8.1/chess-tui-2.8.1-x86_64-apple-darwin.tar.gz) | 2.6 MiB | `native/darwin/x64` |
-| [chess-tui-2.8.1-x86_64-pc-windows-msvc.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.8.1/chess-tui-2.8.1-x86_64-pc-windows-msvc.tar.gz) | 2.5 MiB | `native/win/x64` |
-| [chess-tui-2.8.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.8.1/chess-tui-2.8.1-x86_64-unknown-linux-gnu.tar.gz) | 2.7 MiB | `native/linux/x64/glibc` |
-| [chess-tui_2.8.1-1_amd64.deb](https://github.com/thomas-mauran/chess-tui/releases/download/2.8.1/chess-tui_2.8.1-1_amd64.deb) | 2.0 MiB | `runtime/deb/amd64` |
-| [SHA256SUMS](https://github.com/thomas-mauran/chess-tui/releases/download/2.8.1/SHA256SUMS) | 654 B | `other` |
+| [chess-tui-2.9.0-aarch64-apple-darwin.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/chess-tui-2.9.0-aarch64-apple-darwin.tar.gz) | 2.4 MiB | `native/darwin/arm64` |
+| [chess-tui-2.9.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/chess-tui-2.9.0-aarch64-unknown-linux-gnu.tar.gz) | 2.6 MiB | `native/linux/arm64/glibc` |
+| [chess-tui-2.9.0-x86_64-apple-darwin.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/chess-tui-2.9.0-x86_64-apple-darwin.tar.gz) | 2.6 MiB | `native/darwin/x64` |
+| [chess-tui-2.9.0-x86_64-pc-windows-msvc.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/chess-tui-2.9.0-x86_64-pc-windows-msvc.tar.gz) | 2.5 MiB | `native/win/x64` |
+| [chess-tui-2.9.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/chess-tui-2.9.0-x86_64-unknown-linux-gnu.tar.gz) | 2.7 MiB | `native/linux/x64/glibc` |
+| [chess-tui_2.9.0-1_amd64.deb](https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/chess-tui_2.9.0-1_amd64.deb) | 2.1 MiB | `runtime/deb/amd64` |
+| [SHA256SUMS](https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/SHA256SUMS) | 654 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/chess-tui) 上共有 **19** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**17** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/chess-tui) 上共有 **19** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**18** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `2.8.0` | ⚠️ outdated |
+| Arch | `2.9.0` | ✅ latest |
 | Nix unstable | `2.8.0` | ⚠️ outdated |
 | Void | `2.8.0` | ⚠️ outdated |
 | Alpine edge | `2.7.1` | ⚠️ outdated |
@@ -87,4 +87,4 @@ chess-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T08:03:30Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T07:32:13Z._
