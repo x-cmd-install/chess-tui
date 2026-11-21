@@ -1,3 +1,36 @@
+- repo: nix_stable_25_05
+  srcname: chess-tui
+  visiblename: chess-tui
+  version: 1.6.1
+  origversion: null
+  status: outdated
+  summary: Chess TUI implementation in rust
+  maintainers:
+    - bytesudoer@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: chess-tui
+  visiblename: chess-tui
+  version: 1.6.2
+  origversion: null
+  status: outdated
+  summary: Chess TUI implementation in rust
+  maintainers:
+    - bytesudoer@gmail.com
+  licenses:
+    - MIT
+- repo: artix
+  subrepo: galaxy
+  srcname: chess-tui
+  binname: chess-tui
+  visiblename: chess-tui
+  version: 2.8.0
+  origversion: 2.8.0-2
+  status: outdated
+  summary: Play chess in your terminal
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: chess-tui
@@ -32,7 +65,7 @@
   visiblename: chess-tui
   version: 2.8.1
   origversion: 2.8.1-alt1
-  status: newest
+  status: outdated
   summary: A rusty chess game in your terminal
   maintainers:
     - sobue@altlinux.org
@@ -45,20 +78,9 @@
   srcname: chess-tui
   binname: chess-tui
   visiblename: chess-tui
-  version: 2.8.0
-  origversion: 2.8.0-2
-  status: outdated
-  summary: Play chess in your terminal
-  licenses:
-    - MIT
-- repo: artix
-  subrepo: galaxy
-  srcname: chess-tui
-  binname: chess-tui
-  visiblename: chess-tui
-  version: 2.8.0
-  origversion: 2.8.0-2
-  status: outdated
+  version: 2.9.0
+  origversion: 2.9.0-1
+  status: newest
   summary: Play chess in your terminal
   licenses:
     - MIT
@@ -110,28 +132,6 @@
   srcname: chess-tui
   visiblename: chess-tui
   version: 1.2.1
-  origversion: null
-  status: outdated
-  summary: Chess TUI implementation in rust
-  maintainers:
-    - bytesudoer@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: chess-tui
-  visiblename: chess-tui
-  version: 1.6.1
-  origversion: null
-  status: outdated
-  summary: Chess TUI implementation in rust
-  maintainers:
-    - bytesudoer@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: chess-tui
-  visiblename: chess-tui
-  version: 1.6.2
   origversion: null
   status: outdated
   summary: Chess TUI implementation in rust
@@ -203,7 +203,7 @@
   visiblename: games/chess-tui
   version: 2.8.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Chess TUI implementation in rust
   maintainers:
     - pkgsrc-users@netbsd.org
