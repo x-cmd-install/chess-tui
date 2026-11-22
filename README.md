@@ -48,12 +48,12 @@ Total: **19,760** lines of code across **138** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 2 | 27 | 1 | 3 | 1 | 30 |
-| last60d | 2026-09-22 | 3 | 40 | 2 | 7 | 5 | 53 |
-| 90d | 2026-08-23 | 3 | 48 | 2 | 7 | 7 | 59 |
-| last180d | 2026-05-25 | 3 | 79 | 6 | 8 | 10 | 88 |
-| 360d | 2025-11-26 | 17 | 140 | 10 | 51 | 16 | 206 |
-| last720d | 2024-12-01 | 20 | 157 | 11 | 65 | 17 | 228 |
+| 30d | 2026-10-23 | 2 | 26 | 1 | 2 | 1 | 29 |
+| last60d | 2026-09-23 | 3 | 40 | 2 | 7 | 5 | 46 |
+| 90d | 2026-08-24 | 3 | 48 | 2 | 7 | 7 | 59 |
+| last180d | 2026-05-26 | 3 | 79 | 6 | 8 | 9 | 83 |
+| 360d | 2025-11-27 | 17 | 140 | 10 | 51 | 16 | 205 |
+| last720d | 2024-12-02 | 20 | 157 | 11 | 65 | 17 | 228 |
 
 ## Release assets
 
@@ -69,7 +69,7 @@ Total: **19,760** lines of code across **138** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/chess-tui). **1** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/chess-tui). **2** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:32:13Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:59:21Z._
