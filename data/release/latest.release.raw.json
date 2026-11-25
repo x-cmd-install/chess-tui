@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2530306,
       "digest": "sha256:40075459227128307690f348623a143be7f661ad43acdc9c8605a37a90a9419f",
-      "download_count": 61,
+      "download_count": 72,
       "created_at": "2026-11-20T20:44:14Z",
       "updated_at": "2026-11-20T20:44:15Z",
       "browser_download_url": "https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/chess-tui-2.9.0-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2708809,
       "digest": "sha256:2a997ddb26dc5d79b1b32dfa9e9e39a81a7a3339a9eb42838a5bcd74e1b528c6",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-11-20T20:43:00Z",
       "updated_at": "2026-11-20T20:43:00Z",
       "browser_download_url": "https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/chess-tui-2.9.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2686434,
       "digest": "sha256:52fc452166fc3af899918db205971bfffe31b7b12a9ea52d4350531a0413a329",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-11-20T20:46:23Z",
       "updated_at": "2026-11-20T20:46:24Z",
       "browser_download_url": "https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/chess-tui-2.9.0-x86_64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2592231,
       "digest": "sha256:a0c52216cb4b26dca45e13bfd69d0453de493f7b2f0fe1e3104548183e55ebbe",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-11-20T20:45:19Z",
       "updated_at": "2026-11-20T20:45:19Z",
       "browser_download_url": "https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/chess-tui-2.9.0-x86_64-pc-windows-msvc.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2863474,
       "digest": "sha256:faed0f9aee18bbed1f50f702024c25a4eecdd90e7cbd5d3b7bcdb26c6b4cd77c",
-      "download_count": 33,
+      "download_count": 38,
       "created_at": "2026-11-20T20:43:11Z",
       "updated_at": "2026-11-20T20:43:11Z",
       "browser_download_url": "https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/chess-tui-2.9.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2165436,
       "digest": "sha256:f0f6163b6697f77d705b2d90a7ef63c0eef29ac4926bfa2c7611d1b3e97d7384",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-11-20T20:50:23Z",
       "updated_at": "2026-11-20T20:50:24Z",
       "browser_download_url": "https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/chess-tui_2.9.0-1_amd64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 654,
       "digest": "sha256:d557c1eb20895f20391ef83f6f3456b1360ee507d1c015a142dec1d961ce1326",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-20T20:50:37Z",
       "updated_at": "2026-11-20T20:50:38Z",
       "browser_download_url": "https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/SHA256SUMS"
