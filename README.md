@@ -33,27 +33,27 @@ Total: **19,956** lines of code across **138** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.9.0` (2026-11-20)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-26
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,229 · **Forks**: 85 · **Open issues**: 148 · **Contributors**: 44
+- **Stars**: 1,228 · **Forks**: 85 · **Open issues**: 148 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 195 · **Open PRs**: 10 · **Closed issues**: 129 · **Open issues**: 19 · **Commits**: 341
+- **Releases**: 29 · **Merged PRs**: 197 · **Open PRs**: 10 · **Closed issues**: 129 · **Open issues**: 19 · **Commits**: 343
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 24 | 0 | 2 | 1 | 0 |
-| last60d | 2026-09-27 | 3 | 33 | 1 | 8 | 4 | 0 |
-| 90d | 2026-08-28 | 3 | 45 | 1 | 8 | 6 | 0 |
-| last180d | 2026-05-30 | 3 | 73 | 5 | 9 | 8 | 0 |
-| 360d | 2025-12-01 | 17 | 138 | 9 | 52 | 15 | 0 |
-| last720d | 2024-12-06 | 20 | 154 | 10 | 64 | 16 | 228 |
+| 30d | 2026-10-28 | 2 | 26 | 0 | 2 | 1 | 0 |
+| last60d | 2026-09-28 | 3 | 35 | 1 | 8 | 4 | 0 |
+| 90d | 2026-08-29 | 3 | 47 | 1 | 8 | 6 | 0 |
+| last180d | 2026-05-31 | 3 | 75 | 5 | 9 | 8 | 0 |
+| 360d | 2025-12-02 | 17 | 140 | 9 | 52 | 15 | 0 |
+| last720d | 2024-12-07 | 20 | 156 | 10 | 64 | 16 | 230 |
 
 ## Release assets
 
@@ -67,17 +67,6 @@ Total: **19,956** lines of code across **138** files in the top 5 languages.
 | [chess-tui_2.9.0-1_amd64.deb](https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/chess-tui_2.9.0-1_amd64.deb) | 2.1 MiB | `runtime/deb/amd64` |
 | [SHA256SUMS](https://github.com/thomas-mauran/chess-tui/releases/download/2.9.0/SHA256SUMS) | 654 B | `other` |
 
-## Distribution status
-
-Reported by **19** distros on [repology.org](https://repology.org/project/chess-tui). **4** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.9.0` | ✅ latest |
-| Nix unstable | `2.8.0` | ⚠️ outdated |
-| Void | `2.8.0` | ⚠️ outdated |
-| Alpine edge | `2.7.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `chess-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +76,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:28:17Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:37:47Z._
