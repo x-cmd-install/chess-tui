@@ -48,12 +48,12 @@ Total: **19,956** lines of code across **138** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 2 | 26 | 0 | 2 | 1 | 0 |
-| last60d | 2026-09-28 | 3 | 35 | 1 | 8 | 4 | 0 |
-| 90d | 2026-08-29 | 3 | 47 | 1 | 8 | 6 | 0 |
-| last180d | 2026-05-31 | 3 | 75 | 5 | 9 | 8 | 0 |
-| 360d | 2025-12-02 | 17 | 140 | 9 | 52 | 15 | 0 |
-| last720d | 2024-12-07 | 20 | 156 | 10 | 64 | 16 | 230 |
+| 30d | 2026-10-29 | 2 | 25 | 0 | 2 | 1 | 29 |
+| last60d | 2026-09-29 | 3 | 35 | 1 | 8 | 4 | 46 |
+| 90d | 2026-08-30 | 3 | 47 | 1 | 8 | 6 | 59 |
+| last180d | 2026-06-01 | 3 | 75 | 5 | 9 | 8 | 83 |
+| 360d | 2025-12-03 | 17 | 140 | 9 | 52 | 15 | 205 |
+| last720d | 2024-12-08 | 20 | 156 | 10 | 64 | 16 | 230 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for chess-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:37:47Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:56:16Z._
